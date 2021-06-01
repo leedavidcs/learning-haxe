@@ -1,0 +1,11 @@
+{
+	"name": "learning-haxe",
+	"license": "MIT",
+	"tags": ["cross", "useless"],
+	"description": "Learning Haxe",
+	"version": "1.0.0",
+	"classPath": "src/",
+	"dependencies": {
+	},
+	"main": "tools.Main"
+}
